@@ -1,0 +1,69 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
+.project
+.classpath
+.settings/
+*.code-workspace
+
+# Build Artifacts and Dependencies
+node_modules/
+dist/
+build/
+out/
+target/
+*.log
+*.tmp
+*.temp
+*.cache
+.cache/
+
+# Environment and Configuration
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+config.local.*
+
+# Package Manager Locks (optional - uncomment if needed)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
+# Testing and Coverage
+coverage/
+.nyc_output/
+*.lcov
+.pytest_cache/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Runtime and Debug Files
+*.pid
+*.seed
+*.pid.lock
+.npm
+.eslintcache
+
+# Temporary Directories
+tmp/
+temp/
+.tmp/
